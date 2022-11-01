@@ -20,3 +20,5 @@ while correctCount < 1: #The loop is basically a stop condition
     value = int(input("Guess a number between 0 and 9: "))
 
     guessNumber(value, computerNumber)
+
+
